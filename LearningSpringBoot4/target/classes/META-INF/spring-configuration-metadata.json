@@ -1,0 +1,34 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "safeProperties.PropertiesSettings",
+      "name": "sin5",
+      "type": "safeProperties.PropertiesSettings"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "safeProperties.PropertiesSettings",
+      "name": "sin5.age",
+      "type": "java.lang.Long"
+    },
+    {
+      "sourceType": "safeProperties.PropertiesSettings",
+      "defaultValue": "UTF-8",
+      "name": "sin5.charset",
+      "type": "java.nio.charset.Charset"
+    },
+    {
+      "sourceType": "safeProperties.PropertiesSettings",
+      "defaultValue": true,
+      "name": "sin5.force",
+      "type": "java.lang.Boolean"
+    },
+    {
+      "sourceType": "safeProperties.PropertiesSettings",
+      "name": "sin5.name",
+      "type": "java.lang.String"
+    }
+  ]
+}
